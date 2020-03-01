@@ -1,4 +1,6 @@
+clear
 import requests
+clear
 print("\033[1;32;44m******************************************************")
 print("\033[1;32;44m* Terminate Instance Operations in AWS Are Complete. *")
 print("\033[1;32;44m******************************************************")
